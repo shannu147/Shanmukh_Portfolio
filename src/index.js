@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './src/App';
-import GlobalStyles from './src/styles/GlobalStyle';
-import Typography from './src/styles/Typography';
+import App from './App';
+import GlobalStyles from './styles/GlobalStyle';
+import Typography from './styles/Typography';
 
 ReactDOM.render(
   <>
